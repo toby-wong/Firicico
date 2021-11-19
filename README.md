@@ -4,11 +4,11 @@
 This is the font set-up I use for programming. It uses Fira Code as default font and Pacifico for the italics. Thanks to Fira Code it also has font ligatures.
 
 ### What is it?
-As just said, its a combination of two fonts. The Pacifico font-size is additionally slightly increased (115%).
+As just said, its a combination of two fonts. Fira Code and Pacifico.
 
 ### Setup
 
-Just download/clone the this repo and install the Firicico & Firicico Italic. In the Source fonts-folder you can additionally find the unedited source fonts, if you want to install them too.
+Just download/clone the this repo and install the fonts included. For an easy installation you can just install Firicico Regular & Firicico Italic. In the Source fonts-folder you can additionally find the original source fonts.
 
 Now go to your editor/IDE and change the font to Firicico and enable Font ligatures, if you want them. That's it.
 
